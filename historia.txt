@@ -4,8 +4,4 @@ Segunda linea para nueva version
 
 Tercera linea tercera versión
 
-Cuarta versión
-
-Quita version
-
-Le hice una sexta
+Se deshizo desde la sexta a la Tercera version
